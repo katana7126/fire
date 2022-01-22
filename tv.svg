@@ -1,0 +1,10 @@
+    <svg height="450" width="620">
+        <rect width="500" height="300" fill="grey" rx="50" ry="50" x="60" y="110"></rect>
+        <rect width="13" height="30" x="490" y="408" rx="5" fill="black"></rect>
+        <rect width="13" height="30" x="130" y="408" rx="5" fill="black"></rect>
+        <rect width="410" height="250" x="90" y="135" rx="30" fill="skyblue"></rect>
+        <rect width="44" height="90" x="508" y="180" rx="10" fill="black"></rect>
+        <rect width="25" height="15" x="518" y="190" rx="5" fill="red"></rect>
+        <rect width="25" height="15" x="518" y="215" rx="5" fill="gold"></rect>
+        <rect width="25" height="15" x="518" y="240" rx="5" fill="lime"></rect>
+    </svg>
